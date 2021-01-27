@@ -1,1 +1,1 @@
-# ruby-rails-react-redux-app
+# react-redux-app
